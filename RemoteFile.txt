@@ -1,2 +1,2 @@
 Change1 – commit with message as “Change1 in RemoteFile”
-change2 - adding data from team members
+Change2 – commit with message as “Change2 in RemoteFile”
